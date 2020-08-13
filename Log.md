@@ -1,4 +1,8 @@
 # 100 Days Of Code - Log
+
+## Day 1: August 13, 2020
+Setup deployment for mainapp using ghpages CLI. Also setup deploy scripts. Woot. Tried accessing repo using stackblitz but seems like there are integration issues with storybook.
+
 ## Day 0: August 12, 2020
 Today's Progress: Created a new repo to work on my 2020 portfolio. Setup a React and Typescript app. Setup Storybook and added npm commands to deploy/static host storybook in the storybook repo.
 
