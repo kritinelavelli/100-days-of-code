@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+## Day 0: August 17, 2020
+Learnt component types in React. Created a class component for button and added stories.
+
 ## Day 1: August 13, 2020
 Setup deployment for mainapp using ghpages CLI. Also setup deploy scripts. Woot. Tried accessing repo using stackblitz but seems like there are integration issues with storybook.
 
