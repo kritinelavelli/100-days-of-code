@@ -1,4 +1,6 @@
 # 100 Days Of Code - Log
+## Day 1: August 18, 2020
+Learnt about props, state and events. Also about binding events in ES6 classes. Started design system theme in Figma.
 
 ## Day 0: August 17, 2020
 Learnt component types in React. Created a class component for button and added stories.
