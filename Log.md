@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 3: August 20, 2020
+
+Created a common component for tabs for routing. Learnt how to do lists (equivalent to ngFor but uses ES6).
+
 ## Day 2: August 19, 2020
 
 Setup ESlinting and Prettier in the repo. (Harder than I thought it would be). Setup GHPages to support routing with ReactRouter. Also worked on typography and mobile design ideas.
