@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 4: August 25, 2020
+
+Added design system: css vars for color and type. Also added stories for design system.
+
 ## Day 3: August 20, 2020
 
 Created a common component for tabs for routing. Learnt how to do lists (equivalent to ngFor but uses ES6).
