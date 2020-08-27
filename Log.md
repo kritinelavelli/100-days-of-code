@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 5: August 26, 2020
+
+So I learnt today that react doesn't encapsulate styles like angular does. So I have to rely on global styles and a good class name scheme. Continued on design system and created new base components.
+
 ## Day 4: August 25, 2020
 
 Added design system: css vars for color and type. Also added stories for design system.
