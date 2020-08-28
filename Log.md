@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 6: August 27, 2020
+
+Custom link styling inside tabs - was complex figuring out how to use useRouteMatch hook. Apparently it doesn't work in callbacks. 
+
 ## Day 5: August 26, 2020
 
 So I learnt today that react doesn't encapsulate styles like angular does. So I have to rely on global styles and a good class name scheme. Continued on design system and created new base components.
