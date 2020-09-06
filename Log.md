@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 0: September 6, 2020
+
+Restarted by working on home page designs. Came up with 4 iterations. Added card grid component.
+
 ## Day 6: August 27, 2020
 
 Custom link styling inside tabs - was complex figuring out how to use useRouteMatch hook. Apparently it doesn't work in callbacks. 
