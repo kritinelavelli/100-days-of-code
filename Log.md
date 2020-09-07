@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 1: September 7, 2020
+
+Improved the card grid and created card component. I need more structure to keep this going. Maybe need to start doing coding puzzles to keep me on track.
+
 ## Day 0: September 6, 2020
 
 Restarted by working on home page designs. Came up with 4 iterations. Added card grid component.
