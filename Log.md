@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+## Day 2-10: September 8-16, 2020
+
+Been working on design improvements for the portfolio mostly in Figma. Came up with 5 iterations of design. Still not happy with the layout. Think I will take a break and go back to working on the content to start with and then come back to the layout.
+
 ## Day 1: September 7, 2020
 
 Improved the card grid and created card component. I need more structure to keep this going. Maybe need to start doing coding puzzles to keep me on track.
