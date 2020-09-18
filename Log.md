@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+## Day 11: September 17, 2020
+Finally came up with a simple design that I'm happy with. Works well for the project pages and satisfies my criteria to showcase the main project as well as show work chronologically. 
+
 ## Day 2-10: September 8-16, 2020
 
 Been working on design improvements for the portfolio mostly in Figma. Came up with 5 iterations of design. Still not happy with the layout. Think I will take a break and go back to working on the content to start with and then come back to the layout.
